@@ -4,4 +4,4 @@ while True:
     name = input()
     if name == 'your name':
         break
-print('Thank you for being obedient')
+print('Thank you for being obedient-ok')
