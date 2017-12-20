@@ -1,3 +1,4 @@
+#python code on 'while'
 name = ' '
 while True:
     print('Please print "your name".')
