@@ -1,3 +1,4 @@
+#while continue sample
 spam = 0
 while spam < 5:
     spam = spam + 1
